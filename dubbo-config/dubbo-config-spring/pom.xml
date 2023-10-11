@@ -31,7 +31,7 @@
         <!-- Uncomment spring_version property to check Spring 4.x compatibility -->
         <!-- <spring_version>4.3.30.RELEASE</spring_version> -->
         <curator5_version>5.1.0</curator5_version>
-        <zookeeper_version>3.6.0</zookeeper_version>
+        <zookeeper_version>3.7.2</zookeeper_version>
     </properties>
 
     <dependencies>
